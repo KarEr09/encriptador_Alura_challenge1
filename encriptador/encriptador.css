@@ -1,0 +1,29 @@
+body{
+    font-family: "Special Elite", system-ui;
+    font-weight: 400;
+    font-style: normal;      
+}
+header{
+   background: #FFFFFF;
+   font-size: 40px;
+}
+
+main{
+    background: url(imagenes/writing.jpg);
+    text-align: center;
+    background-size: cover cover;
+}
+
+.writing{
+    opacity: 1;
+}
+
+footer{
+    background: #030d25;
+    text-align: center;
+    padding: 40px;   
+}
+
+.detective{
+    width: 4em;
+}
